@@ -6,6 +6,7 @@ Moving Pioneer Robot to a goal on CoppeliaSim with ROS Service
 ## TurtleSim
 
 - `roscore`  
+- ` rosrun turtlesim turtlesim_node`  
 - `rosrun my_turtle_service move_pioneer_server`  
 - `rosrun my_turtle_service move_turtle_client "x" "y" "theta"`  
 
